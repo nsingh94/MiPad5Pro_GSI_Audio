@@ -1,8 +1,8 @@
-id=AudioStutterFix_elishGSI
-name=GSI Audio Stutter Fix - Mi Pad 5 Pro (elish)
+id=MiPad5Pro_GSI_Audio
+name=GSI Audio Fix - Mi Pad 5 Pro (elish)
 version=v1.2
 versionCode=1
 author=namit1994 @ XDA
 description=A Magisk Module aimed at fixing audio stuttering on GSIs installed on Mi Pad 5 Pro (elish)
 support=namit1994
-updateJson=https://raw.githubusercontent.com/nsingh94/MiPad5_GSI_Audio/main/update.json
+updateJson=https://raw.githubusercontent.com/nsingh94/MiPad5Pro_GSI_Audio/main/update.json
